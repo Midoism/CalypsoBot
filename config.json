@@ -1,10 +1,9 @@
 {
-  "token": "ODQ0MzcwNDUzMDE4OTY4MDY1.YKRbQw.n7N7iqQxgRTbkFW8yZibK3P-Lcc",
-  "ownerId": "718916295269023774",
-  "bugReportChannelId": "845946492757606440",
-  "feedbackChannelId": "845947554440675358",
-  "serverLogId": "845947869344694302",
-  
+  "token": "ODU0NjMxNTEyODk3MDkzNjYy.YMmvng.qyZr_C6iQAbQQHyGViRPZfgWeq4",
+  "ownerId": "846690128642441216",
+  "bugReportChannelId": "847049466207797276",
+  "feedbackChannelId": "847049466207797277",
+  "serverLogId": "847049467097251858",
   "apiKeys": {
     "catApi": "eb347f3a-0885-48ef-9316-f3c48c762ff7",
     "googleApi": "AIzaSyAvQYpo8jTeHwz2Z4ZWyKXhxPfTsTTislE"
